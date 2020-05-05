@@ -2,7 +2,7 @@
 
 A simple shadertoy-compatible GLSL playground in OpenGL implementation
 
-![Shader Example](./shadertoy.gif)
+![Shader Example](./ShaderToy.gif)
 
 ##### Dependecies
 
